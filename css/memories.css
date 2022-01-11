@@ -6,15 +6,15 @@
 .fp-slidesNav ul li a span {
     border-color:#fff;
 }
-/*img{  
+/*img{
 	display: inline-block;
 	height: auto;
-	max-width: 100%; 
+	max-width: 100%;
 }*/
 .bgcolor {
-	background: #ee9ca7;
-    background: -webkit-linear-gradient(top left, #ee9ca7 0%, #ee9ca7 100%);
-    background: linear-gradient(to bottom right, #ee9ca7 0%, #ee9ca7 100%);
+	background: #79a8ae;
+    background: -webkit-linear-gradient(top left, #79a8ae 0%, #79a8ae 100%);
+    background: linear-gradient(to bottom right, #79a8ae 0%, #79a8ae 100%);
     opacity: 0.9;
 }
 .bg-bubbles {
@@ -437,7 +437,7 @@
 		left:10%;
 		top:10%;
 	}
-	
+
 	.ly-txt02 {
 		position:absolute;
 		width: 40%;
@@ -453,7 +453,7 @@
 		left:10%;
 		top:5%;
 	}
-	
+
 	.ly-txt02 {
 		position:absolute;
 		width: 40%;
@@ -811,7 +811,7 @@
 	-ms-border-radius: 10px;
 	-o-border-radius: 10px;
 	border-radius: 10px;
-	transition: all 0.3s; 
+	transition: all 0.3s;
 }
 .active .timepoint {
 	opacity: 1;
@@ -896,12 +896,12 @@
 	}
 	/*小三角*/
 	.ly-triangle11 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
@@ -920,12 +920,12 @@
 	}
 	/*小三角*/
 	.ly-triangle12 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
@@ -975,13 +975,13 @@
 		opacity: 0;
 		transition: all 0.5s;
 	}
-	
+
 	.active .ly-txt11 {
 		opacity: 1;
 		transition-delay: 3.5s;
 	}
-	
-	
+
+
 	.ly-txt12 {
 		font-family: Microsoft YaHei;
 		font-size: 20px;
@@ -994,13 +994,13 @@
 		opacity: 0;
 		transition: all 1s;
 	}
-	
+
 	.active .ly-txt12 {
 		opacity: 1;
 		transition-delay: 4s;
 	}
-	
-	
+
+
 	/*文本*/
 	.ly-txt13 {
 		font-family: Microsoft YaHei;
@@ -1013,12 +1013,12 @@
 		opacity: 0;
 		transition: all 0.5s;
 	}
-	
+
 	.active .ly-txt13 {
 		opacity: 1;
 		transition-delay: 6s;
 	}
-	
+
 	.ly-txt14 {
 		text-indent:2em;
 		font-family: Microsoft YaHei;
@@ -1034,7 +1034,7 @@
 		width:88%;
 		overflow:hidden;
 	}
-	
+
 	.active .ly-txt14 {
 		height:500px;
 		transition-delay: 6.5s;
@@ -1067,12 +1067,12 @@
 	}
 	/*小三角*/
 	.ly-triangle11 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
@@ -1121,13 +1121,13 @@
 		opacity: 0;
 		transition: all 0.5s;
 	}
-	
+
 	.active .ly-txt11 {
 		opacity: 1;
 		transition-delay: 3.5s;
 	}
-	
-	
+
+
 	.ly-txt12 {
 		font-family: Microsoft YaHei;
 		font-size: 20px;
@@ -1140,12 +1140,12 @@
 		opacity: 0;
 		transition: all 1s;
 	}
-	
+
 	.active .ly-txt12 {
 		opacity: 1;
 		transition-delay: 4s;
 	}
-	
+
 	/* 盒子 */
 	.ly-box12 {
 		width: 40%;
@@ -1171,12 +1171,12 @@
 	}
 	/*小三角*/
 	.ly-triangle12 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 43%;
@@ -1205,12 +1205,12 @@
 		opacity: 0;
 		transition: all 0.5s;
 	}
-	
+
 	.active .ly-txt13 {
 		opacity: 1;
 		transition-delay: 6s;
 	}
-	
+
 	.ly-txt14 {
 		text-indent:2em;
 		font-family: Microsoft YaHei;
@@ -1226,7 +1226,7 @@
 		width:88%;
 		overflow:hidden;
 	}
-	
+
 	.active .ly-txt14 {
 		height:500px;
 		transition-delay: 6.5s;
@@ -1285,12 +1285,12 @@
 	}
 	/*小三角*/
 	.ly-triangle21 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
@@ -1327,7 +1327,7 @@
 		width: 100%;
 		bottom: 0;
 	}
-	
+
 	/* 盒子 */
 	.ly-box22 {
 		width: 15%;
@@ -1353,12 +1353,12 @@
 	}
 	/*小三角*/
 	.ly-triangle22 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 58%;
@@ -1375,7 +1375,7 @@
 		transform: scale(1, 1);
 		transition-delay: 6s;
 	}
-	
+
 	/*图片*/
 	.ly-imgbox22{
 		position: absolute;
@@ -1396,7 +1396,7 @@
 		width: 100%;
 		bottom: 0;
 	}
-	
+
 	/* 盒子 */
 	.ly-box23 {
 		width: 34%;
@@ -1418,12 +1418,12 @@
 	}
 	/*小三角*/
 	.ly-triangle23 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 39%;
@@ -1488,12 +1488,12 @@
 	}
 	/*小三角*/
 	.ly-triangle21 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
@@ -1530,7 +1530,7 @@
 		width: 100%;
 		bottom: 0;
 	}
-	
+
 	/* 盒子 */
 	.ly-box22 {
 		width: 30%;
@@ -1556,12 +1556,12 @@
 	}
 	/*小三角*/
 	.ly-triangle22 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 45%;
@@ -1578,7 +1578,7 @@
 		transform: scale(1, 1);
 		transition-delay: 6s;
 	}
-	
+
 	/*图片*/
 	.ly-imgbox22{
 		position: absolute;
@@ -1599,7 +1599,7 @@
 		width: 100%;
 		bottom: 0;
 	}
-	
+
 	/* 盒子 */
 	.ly-box23 {
 		width: 60%;
@@ -1621,12 +1621,12 @@
 	}
 	/*小三角*/
 	.ly-triangle23 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
@@ -1855,15 +1855,15 @@
 		transform: scale(1, 1);
 		transition-delay: 5s;
 	}
-	
+
 	/*小三角*/
 	.ly-triangle31 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
@@ -1882,12 +1882,12 @@
 	}
 	/*小三角*/
 	.ly-triangle32 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
@@ -1958,15 +1958,15 @@
 		transform: scale(1, 1);
 		transition-delay: 5s;
 	}
-	
+
 	/*小三角*/
 	.ly-triangle31 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
@@ -1985,12 +1985,12 @@
 	}
 	/*小三角*/
 	.ly-triangle32 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 43%;
@@ -2149,7 +2149,7 @@
 		height:500px;
 		transition-delay: 8s;
 	}
-	
+
 	.ly-box52 {
 		width: 15%;
 		height: 550px;
@@ -2194,7 +2194,7 @@
 		height: 40%;
 		transition-delay: 8s;
 	}
-	
+
 	.ly-box52 {
 		width: 30%;
 		height: 40%;
@@ -2362,7 +2362,7 @@
 		transform: scale(1, 1);
 		transition-delay: 8s;
 	}
-	
+
 	.ly-box73 {
 		width: 30%;
 		height: 40%;
@@ -2385,14 +2385,14 @@
 		transform: scale(1, 1);
 		transition-delay: 11s;
 	}
-	
+
 	.ly-triangle71 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
@@ -2409,14 +2409,14 @@
 		transform: scale(1, 1);
 		transition-delay: 8.5s;
 	}
-	
+
 	.ly-triangle72 {
 		width: 0;
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 39%;
@@ -2492,7 +2492,7 @@
 		transform: scale(1, 1);
 		transition-delay: 8s;
 	}
-	
+
 	.ly-box73 {
 		width: 15%;
 		height: 400px;
@@ -2515,14 +2515,14 @@
 		transform: scale(1, 1);
 		transition-delay: 11s;
 	}
-	
+
 	.ly-triangle71 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 39%;
@@ -2539,14 +2539,14 @@
 		transform: scale(1, 1);
 		transition-delay: 8.5s;
 	}
-	
+
 	.ly-triangle72 {
 		width: 0;
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 20%;
@@ -2766,12 +2766,12 @@
 	}
 	/*小三角*/
 	.ly-triangle82 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
@@ -2842,12 +2842,12 @@
 	}
 	/*小三角*/
 	.ly-triangle82 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 58%;
@@ -2990,7 +2990,7 @@
 	.xx92 {
 		top:22%;
 	}
-	
+
 	.active .ly-box92{
 		opacity: 0.9;
 		-webkit-transform: scale(1, 1);
@@ -3003,14 +3003,14 @@
 		transform: scale(1, 1);
 		transition-delay: 11s;
 	}
-	
+
 	.ly-triangle91 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 76.9%;
@@ -3021,12 +3021,12 @@
 		transition: all 1s;
 	}
 	.ly-triangle92 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 44%;
@@ -3130,14 +3130,14 @@
 		transform: scale(1, 1);
 		transition-delay: 11s;
 	}
-	
+
 	.ly-triangle91 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 39%;
@@ -3154,14 +3154,14 @@
 		transform: scale(1, 1);
 		transition-delay: 8.5s;
 	}
-	
+
 	.ly-triangle92 {
-		width: 0; 
-		height: 0; 
-		border-top: 20px solid transparent; 
-		border-right: 22px solid white; 
+		width: 0;
+		height: 0;
+		border-top: 20px solid transparent;
+		border-right: 22px solid white;
 		border-bottom: 20px solid transparent;
-		border-radius: 2px; 
+		border-radius: 2px;
 		margin-left: 24px;
 		position: absolute;
 		right: 20%;
